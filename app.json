@@ -9,7 +9,7 @@
     ],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/weather.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -23,6 +23,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "첫 리액트 네이티브 앱!!",
+    "githubUrl": "https://github.com/dkel03/fokin-weather"
   }
 }
